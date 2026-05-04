@@ -1,0 +1,9 @@
+# Raw client data - not uploaded for privacy
+data/
+
+# PgAdmin local files
+*.pgpass
+
+# OS files
+.DS_Store
+Thumbs.db
