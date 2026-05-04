@@ -41,25 +41,23 @@ This pattern enables proactive content planning and realistic performance benchm
 ---
 📁 Repository Structure
 ```
-hair-studio-social-media-analysis/
+Hair-studio-social-media-analysis/
 │
-├── queries/
-│   ├── 01_content_performance.sql
-│   ├── 02_content_performance.sql
-│   ├── 03_best_time_to_post.sql
-│   ├── 04_best_time_to_post.sql
-│   ├── 05_audience_follower_growth.sql
-│   ├── 06_audience_follower_growth.sql
-│   ├── 07_audience_follower_growth.sql
-│   ├── 08_reach_and_visibility.sql
-│   ├── 09_reach_and_visibility.sql
-│   ├── 10_engagement_deep_dive.sql
-│   ├── 11_trends_over_time.sql
-│   ├── 12_trends_over_time.sql
-│   ├── 13_top_and_bottom_performers.sql
-│   ├── 14_cross_platform_comparison.sql
-│   └── 15_cross_platform_comparison.sql
-│
+├── 01_content_performance.sql
+├── 02_content_performance.sql
+├── 03_best_time_to_post.sql
+├── 04_best_time_to_post.sql
+├── 05_audience_follower_growth.sql
+├── 06_audience_follower_growth.sql
+├── 07_audience_follower_growth.sql
+├── 08_reach_and_visibility.sql
+├── 09_reach_and_visibility.sql
+├── 10_engagement_deep_dive.sql
+├── 11_trends_over_time.sql
+├── 12_trends_over_time.sql
+├── 13_top_and_bottom_performers.sql
+├── 14_cross_platform_comparison.sql
+├── 15_cross_platform_comparison.sql
 ├── .gitignore
 └── README.md
 ```
@@ -82,4 +80,3 @@ Feel free to connect with me on LinkedIn or reach out if you have questions abou
 LinkedIn: https://www.linkedin.com/in/andreea-melinte-0349707a/
 ---
 Data used with client permission. All personally identifiable information has been removed.
-Update README with final content
