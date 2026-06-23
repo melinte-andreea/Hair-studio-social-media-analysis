@@ -55,6 +55,19 @@ Instagram acquires new followers at 1.41/day vs Facebook's 0.25/day — making I
 
 ### ⏰ Posting Time Needs Further Testing
 Most content was published at 13:00 (201 posts, 113 avg reach). Evening hours (17:00-19:00) show higher reach averages but insufficient data to confirm reliability. Systematic evening posting is recommended to validate.
+## 📸 Query Results
+
+### Engagement Rate by Post Type — Instagram
+![Engagement Rate](screenshots/Q07_engagement_rate_by_post_type.png)
+
+### Best Hour to Post — Instagram
+![Best Hour](screenshots/Q09_best_hour_instagram.png)
+
+### Platform Growth Comparison
+![Platform Growth](screenshots/Q17_platform_growth_comparison.png)
+
+### 2024 vs 2025 Performance Comparison
+![Year Comparison](screenshots/Q47_2024_vs_2025_comparison.png)
 ---
 📁 Repository Structure
 ```
