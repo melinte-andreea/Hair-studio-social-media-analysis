@@ -39,23 +39,22 @@ Weak: April through August
 Recovery: September and October
 This pattern enables proactive content planning and realistic performance benchmarking throughout the year.
 ---
-## 📸 Query Results — Screenshots
+## 💡 Key Findings
 
-### Instagram Engagement Rate by Post Type
-![Engagement Rate by Post Type](screenshots/Q07_engagement_rate_by_post_type.png)
-*Reels generate 77-87% engagement rate vs 3% for static photos*
+### 📈 Instagram Performance Improving Significantly
+Instagram reach grew 37% from 2024 to 2025 while engagement rate increased 232% (17.31% to 57.4%) — achieved with fewer posts, indicating a clear improvement in content quality and strategy.
 
-### Best Hour to Post on Instagram
-![Best Hour to Post](screenshots/Q09_best_hour_instagram.png)
-*Posts published between 18:00-20:00 reach the most people*
+### 📉 Facebook Engagement Declined Sharply in 2025
+Facebook engagement dropped from 34.41% to 4.44% in 2025 despite consistent posting. Organic reach also decreased 13%. This suggests algorithm changes impacted the account significantly and warrants a content strategy review.
 
-### Platform Growth Comparison
-![Platform Growth](screenshots/Q17_platform_growth_comparison.png)
-*Instagram grows 3x faster than Facebook over the analysis period*
+### 🎥 Reels Generate Highest Engagement on Instagram
+Reels achieve 38.61% average engagement rate, outperforming images (31.47%) and carousels (24.28%) based on 516 posts.
 
-### 2024 vs 2025 Performance Comparison
-![Year Comparison](screenshots/Q47_2024_vs_2025_comparison.png)
-*Overall reach and engagement improved significantly in 2025*
+### 👥 Instagram Growing 5.6x Faster Daily Than Facebook
+Instagram acquires new followers at 1.41/day vs Facebook's 0.25/day — making Instagram the priority platform for audience growth investment.
+
+### ⏰ Posting Time Needs Further Testing
+Most content was published at 13:00 (201 posts, 113 avg reach). Evening hours (17:00-19:00) show higher reach averages but insufficient data to confirm reliability. Systematic evening posting is recommended to validate.
 ---
 📁 Repository Structure
 ```
