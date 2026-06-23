@@ -8,7 +8,7 @@ Data Period	2 years of historical social media data
 Platforms	Facebook & Instagram
 Database	PostgreSQL (via PgAdmin)
 Tools Used	PostgreSQL, PgAdmin, Microsoft Excel, Canva
-Query Count	15 curated SQL queries across 10 analysis sections
+Query Count	64 curated SQL queries across 10 analysis sections
 ---
 🔍 Analysis Sections
 The project is organised into 10 thematic sections, each addressing a key business question:
@@ -22,22 +22,6 @@ Trends — What seasonal and long-term patterns exist?
 Monetization Insights — Which content types best support business goals?
 Top & Bottom Performers — What are the best and worst performing posts?
 Cross-Platform Comparison — How does Facebook performance compare to Instagram?
----
-💡 Key Findings
-🎥 Reels with Real Client Transformations Dominate
-Reels showcasing actual client hair transformations generate 77–87% engagement rates — far exceeding the industry average of 1–3%. This is the single highest-performing content format across both platforms.
-📚 Educational > Promotional
-Educational content about hair problems (damage, hair loss, treatments) consistently outperforms promotional content on both Facebook and Instagram. The audience responds to value-first content rather than direct advertising.
-📉 Facebook Reach Has Plateaued
-Facebook organic reach has stabilised at approximately 250 impressions per post, regardless of format or content type. Topic relevance and seasonal timing have a greater impact on performance than post format on this platform.
-📈 Instagram Grows Fastest in January
-The account sees its highest Instagram follower growth in January, driven by "new year, new look" motivation. This seasonal peak should be anticipated and planned for months in advance with dedicated content campaigns.
-📅 Clear Seasonal Pattern on Facebook
-Facebook engagement follows a predictable annual cycle:
-Strong: January, March
-Weak: April through August
-Recovery: September and October
-This pattern enables proactive content planning and realistic performance benchmarking throughout the year.
 ---
 ## 💡 Key Findings
 
