@@ -39,6 +39,24 @@ Weak: April through August
 Recovery: September and October
 This pattern enables proactive content planning and realistic performance benchmarking throughout the year.
 ---
+## 📸 Query Results — Screenshots
+
+### Instagram Engagement Rate by Post Type
+![Engagement Rate by Post Type](screenshots/Q07_engagement_rate_by_post_type.png)
+*Reels generate 77-87% engagement rate vs 3% for static photos*
+
+### Best Hour to Post on Instagram
+![Best Hour to Post](screenshots/Q09_best_hour_instagram.png)
+*Posts published between 18:00-20:00 reach the most people*
+
+### Platform Growth Comparison
+![Platform Growth](screenshots/Q17_platform_growth_comparison.png)
+*Instagram grows 3x faster than Facebook over the analysis period*
+
+### 2024 vs 2025 Performance Comparison
+![Year Comparison](screenshots/Q47_2024_vs_2025_comparison.png)
+*Overall reach and engagement improved significantly in 2025*
+---
 📁 Repository Structure
 ```
 Hair-studio-social-media-analysis/
