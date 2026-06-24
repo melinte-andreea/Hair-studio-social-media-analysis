@@ -57,7 +57,7 @@ Systematic evening posting is recommended to validate this pattern.
 and 24.28% for carousels — based on 516 posts*
 
 ### Best Hour to Post — Instagram
-![Best Hour](screenshots/Q09_best_hour_instagram.png)
+![Best Hour](screenshots/Q09_best_hour_by_reach_instagram.png)
 *Most posts published at 13:00 (201 posts). Evening hours show
 higher averages but need more data to confirm reliability*
 
@@ -67,7 +67,7 @@ higher averages but need more data to confirm reliability*
 (1.41 vs 0.25 avg daily follows)*
 
 ### 2024 vs 2025 Performance Comparison
-![Year Comparison](screenshots/Q47_2024_vs_2025_comparison.png)
+![Year Comparison](screenshots/Q47_2024_vs_2025_performance_comparison.png)
 *Instagram engagement grew 232% YoY while Facebook
 engagement declined 87% in the same period*
 ---
